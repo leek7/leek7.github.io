@@ -16,11 +16,9 @@
     ]
   },
   "interests": [
-    { "name": "" },
-    { "name": "" },
-    { "name": "" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "Hiking" },
+    { "name": "Reading" },
+    { "name": "Photography" }
   ],
   "skills": [
     {
