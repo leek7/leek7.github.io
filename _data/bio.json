@@ -12,7 +12,7 @@
       { "network": "github", "username": "leek7", "url": "leek7.github.io" },
       { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/kevin-lee-b2b220381/" },
       { "network": "email", "username": "", "url": "mailto:leek7@hawaii.edu" },
-      { "network": "", "username": "", "url": "" }
+      { "network": "email", "username": "", "url": "ailto:leek7@hawaii.edu" }
     ]
   },
   "interests": [
