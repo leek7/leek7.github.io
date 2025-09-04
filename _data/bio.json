@@ -22,10 +22,6 @@
   ],
   "skills": [
     {
-      "name" "",
-      "keywords": [ "" ]
-    },
-    {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "WindowsOS", "Git/GitHub" ]
     }
