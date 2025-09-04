@@ -22,12 +22,12 @@
   ],
   "skills": [
     {
-      "name": "Efficient computer use",
+      "name": "",
       "keywords": [ "" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
