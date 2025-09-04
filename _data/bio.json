@@ -3,16 +3,14 @@
     "name": "Kevin Lee",
     "label": "Student",
     "picture": "https://github.com/leek7.png",
-    "email": "mailto:leek7117@hawaii.edu",
+    "email": "Email",
     "phone": "",
     "website": "https://leek7.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Github", "url": "leek7.github.io" },
-      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-lee-b2b220381/" },
-      { "network": "email", "username": "Email", "url": "mailto:leek7117@hawaii.edu" },
-      { "network": "email", "username": "Email", "url": "mailto:leek7117@hawaii.edu" }
+      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-lee-b2b220381/" }
     ]
   },
   "interests": [
