@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "leek7", "url": "leek7.github.io" },
-      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/kevin-lee-b2b220381/" },
-      { "network": "email", "username": "", "url": "mailto:leek7@hawaii.edu" },
-      { "network": "email", "username": "", "url": "mailto:leek7@hawaii.edu" }
+      { "network": "github", "username": "Github", "url": "leek7.github.io" },
+      { "network": "linkedin", "username": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-lee-b2b220381/" },
+      { "network": "email", "username": "Email", "url": "mailto:leek7@hawaii.edu" },
+      { "network": "email", "username": "Email", "url": "mailto:leek7@hawaii.edu" }
     ]
   },
   "interests": [
