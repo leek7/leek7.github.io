@@ -2,7 +2,7 @@
 layout: essay
 title: "Is it Smart?"
 date: 2025-09-04
-labels: [Typescript, AI]
+labels: [Stack Overflow, Smart Questions]
 type: essay
 draft: false
 ---
