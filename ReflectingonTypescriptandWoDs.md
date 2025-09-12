@@ -1,4 +1,5 @@
 ---
+layout: essay
 title: "Reflecting on Typescript and WoDs"
 date: 2025-09-04
 labels: [Typescript, AI]
