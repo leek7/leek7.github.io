@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Planning a California Trip"
 date: 2025-07-11
 labels: [Travel, Planning, California]
