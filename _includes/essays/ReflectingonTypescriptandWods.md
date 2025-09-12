@@ -1,9 +1,4 @@
-<div class="col-md-6 col-lg-4" xmlns="http://www.w3.org/1999/html">
-  <div class="card h-100">
-    <div class="card-body">
-      <h5 class="card-title">{{ include.page.title }}</h5>
-      <p class="card-text"><small class="text-muted">{{ include.page.date | date_to_string }}</small></p>
-      <p class="card-text">{{ include.page.content | markdownify | strip_html | truncatewords: 40 }}</p> 
+
 Kevin Lee
 Dan Port
 ICS 314
@@ -17,14 +12,3 @@ Similar to Python, Typescript is less strict in writing code. There is also an a
 To help junior developers grow their talents, athletic software engineering is practiced. Workouts of the day or WODs add structure and discipline similar to that of physical training. They are timed coding exercises that require problem solving and efficient use of time. This helps developers grow these corresponding skills. However, not everyone learns efficiently with this method. Although mirroring the professional world as there are oftentimes due dates, learning through this method can add further stress to a new developer. 
 Overall, Typescript and artificial intelligence, along with athletic software engineering helps foster development skills. Typescript is a dependable and useful tool for any software developer. Along with AI and athletic software engineering, they will continue to help grow talent for the foreseeable future.
 
-      <p>
-        {% for label in include.page.labels %}
-        <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
-        {% endfor %}
-      </p>
-    </div>
-    <div class="card-footer">
-      <div class="text-center"><a href="{% if page.essayurl %}{{ page.essayurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}" class="btn btn-outline-dark">Read More</a></div>
-    </div>
-  </div>
-</div>
