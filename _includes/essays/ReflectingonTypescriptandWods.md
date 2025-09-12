@@ -3,6 +3,7 @@ title: "ReflectingonTypescriptandWoDs"
 date: 2025-09-04
 labels: [Typescript, AI]
 type: essay
+draft: false
 ---
 Kevin Lee
 
