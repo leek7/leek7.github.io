@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Is it Smart?"
-date: 2025-09-04
+date: 2025-09-11
 labels: [Stack Overflow, Smart Questions]
 type: essay
 draft: false
