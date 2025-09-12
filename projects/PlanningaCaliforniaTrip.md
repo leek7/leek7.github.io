@@ -5,9 +5,8 @@ labels: [Travel, Planning, California]
 type: project
 draft: false
 summary: "Organized a 4-day trip through Southern California for five friends, managing activities, transportation, and housing."
-image: "<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />"
+image: "https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a"
 ---
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />
 
 ## Introduction
 
@@ -21,4 +20,6 @@ We got an Airbnb house in San Diego that allowed us to explore the city thorough
 
 From this experience, I gained great life knowledge. Planning a trip like this took a lot of time, and all the problems and hurdles like being late to things added to things. It is understated how stressful going on a trip can be. Throughout it all, I was able to learn efficient time management and thorough planning skills.  
 
+## Photo
 
+<img src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" alt="California Trip" style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
