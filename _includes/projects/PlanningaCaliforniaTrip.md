@@ -6,8 +6,8 @@ type: project
 draft: false
 summary: "Organized a 4-day trip through Southern California for five friends, managing activities, transportation, and housing."
 ---
-<img src="<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />
-" alt="California Trip" style="max-width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />
+
 ## Introduction
 
 Two months ago I planned the itinerary for a friend's trip to California. Since there were 5 of us, I set up activities, transportation, and housing for 5. We got to travel around Southern California on our 4-day trip. There were amazing memories and adventures created.  
