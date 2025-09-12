@@ -1,3 +1,8 @@
+title: "ReflectingonTypescriptandWoDs"
+date: 2025-09-04
+labels: [Typescript, AI]
+type: essay
+
 Kevin Lee
 
 Dan Port
