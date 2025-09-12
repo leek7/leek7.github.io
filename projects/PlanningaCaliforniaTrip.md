@@ -5,6 +5,7 @@ labels: [Travel, Planning, California]
 type: project
 draft: false
 summary: "Organized a 4-day trip through Southern California for five friends, managing activities, transportation, and housing."
+image: "<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />"
 ---
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/37b0f41d-2977-427f-a00c-8c358ea20a2a" />
 
