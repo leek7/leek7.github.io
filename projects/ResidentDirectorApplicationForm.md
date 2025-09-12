@@ -9,6 +9,8 @@ type: project
 draft: false
 ---
 
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/00c8075f-1f42-4991-bc37-5aab19e387da" />
+
 ## Summer 2024 at UH Manoa Study Abroad
 
 Over the summer of 2024, I worked for the **UH Manoa Study Abroad Center**. I created a Resident Director application form through the **Kuali Build app**, allowing for efficient submissions for faculty applying to oversee Study Abroad programs. This streamlined the application process for **Deans and Department Chairs** across various UH departments. The form is still in use today and has proved useful in organizing applications.
