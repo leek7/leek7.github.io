@@ -7,9 +7,13 @@ type: essay
 draft: false
 ---
 Kevin Lee
+
 Dan Port
+
 ICS 314
+
 09/11/2025
+
 Reflect on Smart Questions
 
 There are many ways to ask and answer questions. The importance of asking a “smart question” is explored by Eric Steven Raymond in his essay, “How To Ask Questions The Smart Way.” He goes into detail of becoming informed as much as possible by scouring the internet and proposing the question in a particular way that evokes thought. Choosing a proper and acceptable medium to post your question is also important. Furthermore, Raymond also details an “unsmart question.” Just having volume in your question does not make it “smart.” You must be precise while also being informative. Explain the goal of your question, not the steps. 
