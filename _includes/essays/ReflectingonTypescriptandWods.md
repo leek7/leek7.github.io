@@ -1,8 +1,9 @@
-title: "ReflectingonTypescriptandWoDs"
+---
+title: "Typescript Reflection"
 date: 2025-09-04
 labels: [Typescript, AI]
 type: essay
-
+---
 Kevin Lee
 
 Dan Port
