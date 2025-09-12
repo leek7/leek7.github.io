@@ -2,7 +2,7 @@
 layout: project
 title: "Resident Director Application Form - UH Manoa Study Abroad"
 date: 2024-08-01
-image: "img/project1.png"
+image: "img/project2.png"
 summary: "Developed a Resident Director application form for UH Manoa Study Abroad using Kuali Build, improving the application process for faculty."
 labels: ["Kuali Build", "Project Management", "UH Manoa"]
 type: project
