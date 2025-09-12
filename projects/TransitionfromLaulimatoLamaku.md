@@ -9,6 +9,8 @@ type: project
 draft: false
 ---
 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d0dbacd0-66d8-4e5b-b7d6-820e5d260062" />
+
 ## Summer 2025 at UH Study Abroad
 
 During the summer of 2025, I worked with the **UH Study Abroad Center** to explore transitioning from **Laulima** to **Lamaku**. Moving all files and data from Laulima proved to be a challenging task. We investigated alternative avenues outside Lamaku to manage the information more efficiently.
