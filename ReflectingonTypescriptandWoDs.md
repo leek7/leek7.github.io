@@ -17,7 +17,7 @@ ICS 314
 
 ## Why TypeScript Remains Relevant
 
-<img src="/images/typescript-logo.png" alt="TypeScript Logo" width="120" />
+<img src="/img/typescript-logo.png" alt="TypeScript Logo" width="120" />
 
 As artificial intelligence takes over the world in continuously innovative ways, Typescript, released over a decade ago, continues to be used reliably. Although both are being used to develop software of all types, Typescript has become a staple for a good reason. It is an easy medium to learn and there are many frameworks like React that support its use. Supported by artificial intelligence, the efficiency of Typescript is multiplied and allows for even more capabilities. Typescript is a great programming language that enables software developers to write structured code.
 
