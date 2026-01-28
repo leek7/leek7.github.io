@@ -1,18 +1,18 @@
 ---
 layout: essay
 title: "Reflecting on Typescript and WoDs"
-date: 2025-09-04
+date: 2026-01-26
 labels: [Typescript, AI]
 type: essay
 draft: false
 ---
 Kevin Lee
 
-Dan Port
+Italo De Oliveira Santos
 
 ICS 314
 
-09/04/2025
+01/26/2026
 
 
 Reflecting on Typescript and WoDs
