@@ -5,6 +5,7 @@ date: 2026-29-01
 labels: [Stack Overflow, Smart Questions]
 type: essay
 draft: false
+published: true
 ---
 Kevin Lee
 
