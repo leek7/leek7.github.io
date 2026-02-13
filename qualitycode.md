@@ -7,10 +7,10 @@ type: essay
 draft: false
 ---
 
-## Kevin Lee  
-## Italo De Oliveira Santos  
-## ICS 314  
-## February 13, 2026
+Kevin Lee  
+Italo De Oliveira Santos  
+ICS 314  
+February 13, 2026
 
 ## Importance of Organization in Code
 
