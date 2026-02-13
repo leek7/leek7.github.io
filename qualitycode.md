@@ -18,6 +18,8 @@ Organization is essential for the world to run smoothly, and coding is no except
 
 ## What is ESLint?
 
+<img src="/img/ESLint.png" alt="ESLint" width="240" />
+
 ESLint is a powerful tool that helps developers maintain clean code. It immediately catches poor formatting, structural issues, and syntax problems without requiring execution. One criticism of ESLint is the overwhelming number of warnings it can generate. Seeing a screen full of red errors can feel discouraging, and fixing them may seem tedious at first. However, most ESLint issues are simple to correct, and the process reinforces consistent coding habits. The end result is code that conforms to a shared standard.
 
 ## Overview
