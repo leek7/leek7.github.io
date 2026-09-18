@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Is it Smart?"
-date: 2026-01-29
+date: 2026-09-16
 labels: [Stack Overflow, Smart Questions]
 type: essay
 draft: false
@@ -9,11 +9,7 @@ published: true
 ---
 Kevin Lee
 
-Italo De Oliveira Santos
-
 ICS 314
-
-01/29/2026
 
 ## So, how do you ask a smart question?
 
