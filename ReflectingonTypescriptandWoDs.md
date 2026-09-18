@@ -1,18 +1,17 @@
 ---
 layout: essay
-title: "Reflecting on Typescript and WoDs"
-date: 2026-01-26
+title: "Reflecting on Typescript"
+date: 2026-09-16
 labels: [Typescript, AI]
 type: essay
 draft: false
 ---
 Kevin Lee
 
-Italo De Oliveira Santos
+
 
 ICS 314
 
-01/26/2026
 
 
 ## Why TypeScript Remains Relevant
