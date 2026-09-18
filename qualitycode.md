@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Quality Code"
-date: 2026-02-13
+date: 2026-09-17
 labels: [Software Engineering, Typescript, ESLint, Code Quality]
 type: essay
 draft: false
@@ -9,11 +9,7 @@ draft: false
 
 Kevin Lee  
 
-Italo De Oliveira Santos 
-
 ICS 314  
-
-02/13/2026
 
 ## Importance of Organization in Code
 
