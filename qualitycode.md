@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: "Quality Code"
-date: 2026-09-17
+date: 2026-09-21
 labels: [Software Engineering, Typescript, ESLint, Code Quality]
 type: essay
 draft: false
