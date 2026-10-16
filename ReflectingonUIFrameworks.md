@@ -18,7 +18,7 @@ ICS 314
 
 ## Why use UI Frameworks?
 
-UI Frameworks is an amazing tool for developers. With their ease of use and plethora of built in components, UI Frameworks makes website design simpler and responsive. They allows development on computers, but ever more important, mobile. Navigation bars and buttons are just some of the built in components that make website building faster. Creating these from scratch with just HTML and CSS can make code longer unnededly.
+UI Frameworks is an amazing tool for developers. With their ease of use and plethora of built in components, UI Frameworks makes website design simpler and responsive. They allow development on computers, but ever more important, mobile. Navigation bars and buttons are just some of the built in components that make website building faster. Creating these from scratch with just HTML and CSS can make code longer uneedledy.
 
 ## Using Bootstrap 5
 <img src="/img/bootstrap-logo.jpeg" alt="TypeScript Logo" width="180" />
